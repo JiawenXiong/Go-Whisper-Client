@@ -1,0 +1,11 @@
+{
+  "api_base_url": "",
+  "api_key": "",
+  "model": "whisper-large-v3",
+  "language": "zh",
+  "auto_detect": true,
+  "output_dir": "./outputs",
+  "max_file_size_mb": 10,
+  "silence_threshold": "-30dB",
+  "silence_duration": 0.5
+}
